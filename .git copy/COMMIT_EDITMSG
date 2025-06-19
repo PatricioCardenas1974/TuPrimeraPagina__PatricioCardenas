@@ -1,0 +1,68 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   App_Arriendo_Peliculas/__init__.py
+#	new file:   App_Arriendo_Peliculas/__pycache__/__init__.cpython-313.pyc
+#	new file:   App_Arriendo_Peliculas/__pycache__/admin.cpython-313.pyc
+#	new file:   App_Arriendo_Peliculas/__pycache__/apps.cpython-313.pyc
+#	new file:   App_Arriendo_Peliculas/__pycache__/forms.cpython-313.pyc
+#	new file:   App_Arriendo_Peliculas/__pycache__/models.cpython-313.pyc
+#	new file:   App_Arriendo_Peliculas/__pycache__/urls.cpython-313.pyc
+#	new file:   App_Arriendo_Peliculas/__pycache__/views.cpython-313.pyc
+#	new file:   App_Arriendo_Peliculas/admin.py
+#	new file:   App_Arriendo_Peliculas/apps.py
+#	new file:   App_Arriendo_Peliculas/forms.py
+#	new file:   App_Arriendo_Peliculas/migrations/0001_initial.py
+#	new file:   App_Arriendo_Peliculas/migrations/0002_remove_cliente_peliculas_alquiladas_and_more.py
+#	new file:   App_Arriendo_Peliculas/migrations/__init__.py
+#	new file:   App_Arriendo_Peliculas/migrations/__pycache__/0001_initial.cpython-313.pyc
+#	new file:   App_Arriendo_Peliculas/migrations/__pycache__/0002_remove_cliente_peliculas_alquiladas_and_more.cpython-313.pyc
+#	new file:   App_Arriendo_Peliculas/migrations/__pycache__/__init__.cpython-313.pyc
+#	new file:   App_Arriendo_Peliculas/models.py
+#	new file:   App_Arriendo_Peliculas/tests.py
+#	new file:   App_Arriendo_Peliculas/urls.py
+#	new file:   App_Arriendo_Peliculas/views.py
+#	new file:   Proyecto_Tienda_Peliculas/__init__.py
+#	new file:   Proyecto_Tienda_Peliculas/__pycache__/__init__.cpython-313.pyc
+#	new file:   Proyecto_Tienda_Peliculas/__pycache__/settings.cpython-313.pyc
+#	new file:   Proyecto_Tienda_Peliculas/__pycache__/urls.cpython-313.pyc
+#	new file:   Proyecto_Tienda_Peliculas/__pycache__/wsgi.cpython-313.pyc
+#	new file:   Proyecto_Tienda_Peliculas/asgi.py
+#	new file:   Proyecto_Tienda_Peliculas/settings.py
+#	new file:   Proyecto_Tienda_Peliculas/urls.py
+#	new file:   Proyecto_Tienda_Peliculas/wsgi.py
+#	new file:   README.md
+#	new file:   db.sqlite3
+#	new file:   manage.py
+#	new file:   requirements.txt
+#	new file:   static/App_Arriendo_Peliculas/assets/favicon.ico
+#	new file:   static/App_Arriendo_Peliculas/assets/img/bg-masthead.jpg
+#	new file:   static/App_Arriendo_Peliculas/assets/img/bg-showcase-1.jpg
+#	new file:   static/App_Arriendo_Peliculas/assets/img/bg-showcase-2.jpg
+#	new file:   static/App_Arriendo_Peliculas/assets/img/bg-showcase-3.jpg
+#	new file:   static/App_Arriendo_Peliculas/assets/img/projector-1285696_1280.jpg
+#	new file:   static/App_Arriendo_Peliculas/assets/img/testimonials-1.jpg
+#	new file:   static/App_Arriendo_Peliculas/assets/img/testimonials-2.jpg
+#	new file:   static/App_Arriendo_Peliculas/assets/img/testimonials-3.jpg
+#	new file:   static/App_Arriendo_Peliculas/css/styles.css
+#	new file:   static/App_Arriendo_Peliculas/js/scripts.js
+#	new file:   styles.css
+#	new file:   templates/App_Arriendo_Peliculas/Cliente.html
+#	new file:   templates/App_Arriendo_Peliculas/Genero.html
+#	new file:   templates/App_Arriendo_Peliculas/Pelicula.html
+#	new file:   templates/App_Arriendo_Peliculas/formulario/clienteFormulario.html
+#	new file:   templates/App_Arriendo_Peliculas/formulario/clienteFormulario2.html
+#	new file:   templates/App_Arriendo_Peliculas/formulario/generoFormulario.html
+#	new file:   templates/App_Arriendo_Peliculas/formulario/generoFormulario2.html
+#	new file:   templates/App_Arriendo_Peliculas/formulario/peliculaFormulario.html
+#	new file:   templates/App_Arriendo_Peliculas/formulario/peliculaFormulario2.html
+#	new file:   templates/App_Arriendo_Peliculas/index.html
+#	new file:   templates/App_Arriendo_Peliculas/padre.html
+#	new file:   templates/App_Arriendo_Peliculas/resultados_busqueda.html
+#

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario - Agregar Pelicula</title>
+</head>
+<body>
+    
+    <form action="{% url 'peliculaFormulario' %}" method="POST"> {% csrf_token %}
+        <h1>Formulario - Agregar Pelicula</h1>
+    
+        <p>Titulo: <input type="text" name="titulo"></p>  
+        <p>Año: <input type="number" name="anio"></p>
+        <p>Disponible: <input type="checkbox" name="disponible"></p>
+        
+        <input type="submit" value="Enviar....">
+
+    </form>
+</body>
+</html>

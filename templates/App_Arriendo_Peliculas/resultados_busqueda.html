@@ -1,0 +1,18 @@
+{% extends 'App_Arriendo_Peliculas/padre.html' %}
+
+{% block title %}Resultados de Búsqueda{% endblock %}
+
+{% block contenido %}
+    <h2 style="font-size: 27px;">Resultado de la búsqueda</h2>
+    {% if resultados %}
+        <ul>
+        {% for pelicula in resultados %}
+            <li style="font-size: 1.25em; font-weight: bold;">
+               <span style="margin-right: 60px;">{{ pelicula.titulo }}</span>({{ pelicula.anio }})
+           </li>
+        {% endfor %}
+        </ul>
+    {% else %}
+        <p style="font-size: 23px;">No se encontraron Películas con ese nombre.  !!</p>
+    {% endif %}
+{% endblock %}
